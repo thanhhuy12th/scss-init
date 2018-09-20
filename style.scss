@@ -1,0 +1,27 @@
+/*
+	Project name is here
+	Author: Simple J
+	Version: 1.0.0
+	Create at: 28/08/2018
+ */
+
+/* BASE - Base styles, variables, mixins, etc */
+
+@import 'base/_variable.scss';
+@import 'base/_mixin.scss';
+@import 'base/_normalize.scss';
+@import 'base/_base.scss';
+
+/* MODULES - Individual site components */
+
+@import 'module/_block.scss';
+@import 'module/_button.scss';
+@import 'module/_form.scss';
+@import 'module/_section.scss';
+
+/* LAYOUTS - Page layout styles */
+
+@import 'layout/_header.scss';
+@import 'layout/_nav.scss';
+@import 'layout/_footer.scss';
+@import 'layout/_mobile.scss';
