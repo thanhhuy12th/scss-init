@@ -1,0 +1,26 @@
+/* FONT  */
+$font-size: 14px;
+$primary-font-family: "Lato", Helvetica, Arial, sans-serif;
+$second-font-family: "Roboto", Helvetica, Arial, sans-serif;
+$primary-font-color: #333;
+$title-font-color: #2b2b2b;
+$p-font-color: #888;
+
+
+/* BACKGROUND */
+$bg-color: #191919;
+$bg-strong-color: #FFD34E;
+$bg-light-color: #f8f8f8;
+
+/* CUSTOM VALUE */
+
+$btn-bg-color: $bg-strong-color;
+$btn-padding: 15px 45px;
+$btn-radius: 0px;
+$btn-color: $primary-font-color;
+$btn-transform: uppercase;
+$btn-weight: 300;
+
+$btn-over-bg-color: $bg-light-color;
+$btn-over-color: $primary-font-color;
+$btn-over-weight: 300;

@@ -1,3 +1,29 @@
-body {
-  padding-top: 50px;
+.btn{
+	font-family: $second-font-family;
+	padding: $btn-padding;
+	background: $btn-bg-color;
+	color: $btn-color;
+	border-radius: $btn-radius;
+	border: 0;
+	text-transform: $btn-transform;
+	font-weight: $btn-weight;
+}
+.btn:hover{
+	background: $btn-over-bg-color;
+	color: $btn-over-color;
+	font-weight: $btn-over-weight;
+}
+.center-div {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.no-padding {
+	padding: 0px;
+}
+.mg-bt-10 {
+	margin-bottom: 10px;
+}
+.mg-bt-20 {
+	margin-bottom: 20px
 }
