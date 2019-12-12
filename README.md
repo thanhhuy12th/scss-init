@@ -1,2 +1,2 @@
 # scss-init
-Quick start a scss structure
+Quick start a scss structure.
